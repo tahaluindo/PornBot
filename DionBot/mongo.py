@@ -6,7 +6,7 @@ from pymongo.errors import ServerSelectionTimeoutError
 
 
 MONGO_PORT = "27017"
-MONGO_DB_URI = "mongodb+srv://DionMusic:music_135@cluster0.vr5rl.mongodb.net/DionMusic?retryWrites=true&w=majority"
+MONGO_DB_URI = "mongodb+srv://hamza:Humza673@testdb-87tve.mongodb.net/test?retryWrites=true&w=majority"
 MONGO_DB = "dion"
 
 
